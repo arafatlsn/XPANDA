@@ -1,6 +1,6 @@
 # X-Panda
 
-[Live Website Link](x-panda07.netlify.app).
+[Live Website Link](https://x-panda07.netlify.app).
 
 ## Project Description
 
