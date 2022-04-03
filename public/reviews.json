@@ -1,0 +1,44 @@
+[
+  {
+    "id": "6249d2ac7af844c9ebe7d812",
+    "name": "Bill - HW Test Engineer",
+    "image": "https://m.media-amazon.com/images/I/71WVDCDDdmL._SY256.jpg",
+    "review": "Reviewing Logitech C920x Pro HD Webcam - I plugged in the camera and Win10 recognized it immediately. No need to go find drivers. No need to install LogiTech SW. It just worked. I fired up Teams with no issues. I have my home office. I have my work office. And I have a workstation in the other building. I need to be able to use Teams because most of the company is working remotely. I saw the C920x at $69 and bought 2. Now I wish I would have bought 5 or more. I would give them to some of my co-workers ... so tired of looking at nostrils! The Test Engineer in me wonders if other people with Win10/Teams issues are having conflicting SW issues as both Teams and the LogiTech SW have background editing tools. Hmmm ... idk. Yes, that is an actual photo backdrop. I'm winning the (unofficial) video-conferencing competition.",
+    "ratings": 5
+  },
+  {
+    "id": "6249d2ac95d537f9f64359ba",
+    "name": "Daniel Alexander Velasco Moreno",
+    "image": "https://m.media-amazon.com/images/I/71i+-wqkW6L._SY256.jpg",
+    "review": "You know that feeling you get when you're holding a well-built item? The adjustable hinges on this webcam are as good as they can possibly be. Easy to adjust. This is the go-to first webcam for new streamers. Handles 1080p resolution 60fps well (I recommend using 720p 30fps if you stream to help out with bandwidth issues if your internet isn't the best, trust). It IS mountable on a tripod so that's nice. At stock price, it's amazing. Try NOT to purchase from resellers. This item should be around $70-$80. Don't support their business if they're trying to scalp you for $110+.",
+    "ratings": 4.8
+  },
+  {
+    "id": "6249d2ac0260746f7aec7321",
+    "name": "Dayna",
+    "image": "https://m.media-amazon.com/images/I/71iO4uvWtTL._SY256.jpg",
+    "review": "I bought the same model back in 2016 and it has German Zeiss lens in it. The one made this year only has a normal lens, no more Zeiss lense any longer, although Logitech is selling at higher price. Very disappointed. If you search the review about Zeiss lens, all returned are from 2015 and 2016. The video quality and picture quality are not as good as my 2016 version.",
+    "ratings": 5
+  },
+  {
+    "id": "6249d2ac1f6470ce72a94ca5",
+    "name": "Jhankar Mahbub",
+    "image": "https://m.media-amazon.com/images/I/71AKTTTIbKL._SY256.jpg",
+    "review": "Nice looking camera, but unfortunately pros stops here. Autofocus is inconsistent. If you go away and then return to your computer it is out of focus completely. You need to disable camera and re-enable again to return focus. Image is blurry. It has blurry background feature but it looks like it considers myself as a background. I replaced $20 camera with this one and immediately everyone start asking me what happens to my camera.",
+    "ratings": 5
+  },
+  {
+    "id": "6249d2acc6d1ea6537bdd045",
+    "name": "Pretty meh",
+    "image": "https://m.media-amazon.com/images/I/61GKdXmt4pL._SY256.jpg",
+    "review": "Picture quality isn't great, in fact, for seventy-dollars, I really can't recommend buying this camera in 2020. Dark scenes have a ton of static. 1080p looks blurry. It looks like Logitech rebuilt this model and used cheaper components.",
+    "ratings": 2
+  },
+  {
+    "id": "6249d2ac77a2eae8ff565e89",
+    "name": "\tAndy",
+    "image": "https://m.media-amazon.com/images/I/61IfYwPlI+L._SY256.jpg",
+    "review": "The 'x' in the description and on the box is for the free 3 months of Xsplit software (via a code printed on a small pamphlet inside the box) and has nothing to do with the camera model. In the box is the Logitech C920 camera. I have it plugged into my Dell XPS 15 9500 (2020 model) running Windows 10 Pro and didn't have to install any drivers or software. I use it with Zoom. No pop ups, no errors, it's 100% plug n' play. Picture quality is a huge improvement from the base camera in my laptop. Crazy that in 2020 laptop camera quality is still an issue. Other than that, it's a webcam and performs as advertised.",
+    "ratings": 5
+  }
+]
