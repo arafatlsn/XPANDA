@@ -25,7 +25,7 @@ const Home = () => {
         </div>
         <div className='grid gap-5 grid-cols-1 md:grid-cols-3 w-4/5 mx-auto mt-10'>
           {
-            reviews.length > 3 ? setReviews(reviews.slice(0, 3)) : console.log(reviews)
+            reviews.length > 3 ? setReviews(reviews.slice(0, 3)) : ''
           }
           {
             reviews.map(elReview => <Review key={elReview.id}elReview={elReview}></Review>)

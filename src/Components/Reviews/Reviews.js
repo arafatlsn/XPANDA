@@ -4,7 +4,6 @@ import Review from '../CustomerReviews/Review';
 
 const Reviews = () => {
   const [reviews, setReviews] = useReviews();
-  console.log(reviews)
   return (
     <div>
       <h1 className='text-center text-3xl underline font-bold'>All Reviews</h1>
