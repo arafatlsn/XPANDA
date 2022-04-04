@@ -5,7 +5,7 @@ import Review from '../CustomerReviews/Review';
 const Reviews = () => {
   const [reviews, setReviews] = useReviews();
   return (
-    <div>
+    <div className='pb-5'>
       <h1 className='text-center text-3xl underline font-bold'>All Reviews</h1>
       <div className='w-4/5 mx-auto grid gap-3 md:grid-cols-3 mt-8'>
         {
