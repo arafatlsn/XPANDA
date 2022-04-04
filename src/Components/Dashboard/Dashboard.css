@@ -1,0 +1,12 @@
+.chart-div{
+  width: 800px;
+  height: 500px;
+}
+
+@media only screen and (max-width: 480px) {
+  .chart-div{
+    width: 100vw;
+    height: 300px;
+    padding-right: 5px;
+  }
+}
