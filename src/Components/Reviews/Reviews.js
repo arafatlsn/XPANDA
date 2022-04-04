@@ -7,7 +7,7 @@ const Reviews = () => {
   return (
     <div>
       <h1 className='text-center text-3xl underline font-bold'>All Reviews</h1>
-      <div className='w-4/5 mx-auto grid gap-3 grid-cols-3 mt-8'>
+      <div className='w-4/5 mx-auto grid gap-3 md:grid-cols-3 mt-8'>
         {
           reviews.map(elReview => <Review  key={elReview.id}elReview={elReview}></Review>)
         }
