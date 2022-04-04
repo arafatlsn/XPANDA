@@ -10,8 +10,8 @@ const Home = () => {
     <div>
       <div className='md:w-4/5 lg:w-4/5 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 p-2 md:p-0'>
         <div className='md:self-end justify-self-center md:mb-20 order-2'>
-          <h1 className='md:text-6xl font-bold'>HD PRO</h1>
-          <h1 className='md:text-6xl font-bold'>WEBCAM C920X</h1>
+          <h1 className='text-3xl md:text-6xl font-bold'>HD PRO</h1>
+          <h1 className='text-3xl md:text-6xl font-bold'>WEBCAM C920X</h1>
           <p className='text-lg font-semibold'>Full 1080p high definiton video</p>
           <p>Logitech C920x HD Pro Webcam, Full HD 1080p/30fps Video Calling, Clear Stereo Audio, HD Light Correction, Works with Skype, Zoom, FaceTime, Hangouts, PC/Mac/Laptop/Macbook/Tablet - Black</p>
           <button className='md:px-8 py-1 px-4 mt-3 md:py-1 md:mt-5 font-bold text-xl rounded-lg' style={{backgroundColor: '#824EF9', color: 'white'}}>Buy Now</button>
