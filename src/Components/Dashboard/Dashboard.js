@@ -9,7 +9,6 @@ const Dashboard = () => {
     .then(res => res.json())
     .then(data => setChartData(data))
   }, [])
-  console.log(chartData)
   return (
     <div>
       <h1 className='text-3xl font-bold underline text-center mb-8'>DashBoard</h1>

@@ -3,7 +3,7 @@ import './Spinner.css'
 
 const Spinner = () => {
   return (
-    <div className='flex justify-center items-center' style={{height: '80vh'}}>
+    <div className='absolute inset-1/2'>
       <div class="lds-hourglass"></div>
     </div>
   );
