@@ -11,7 +11,7 @@ const Dashboard = () => {
     .then(data => setChartData(data))
   }, [])
   return (
-    <div>
+    <div className='pb-5'>
       <h1 className='text-3xl font-bold underline text-center mb-8'>DashBoard</h1>
       <div className='grid lg:grid-cols-2 justify-items-center'>
         <div className='mb-10'>
@@ -28,9 +28,8 @@ const Dashboard = () => {
                 <YAxis />
                 <Tooltip />
                 <Legend />
-                <Area type="monotone" dataKey="revenue" fill="#8884d8" stroke="#8884d8" />
                 <Bar dataKey="investment" barSize={20} fill="#413ea0" />
-                <Line type="monotone" dataKey="uv" stroke="#ff7300" />
+                <Line type="monotone" dataKey="revenue" stroke="#ff7300" />
               </ComposedChart>
             </ResponsiveContainer>
            </div>
